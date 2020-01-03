@@ -1,2 +1,2 @@
-# Th-mes
+# Themes
 Enlightenment themes
